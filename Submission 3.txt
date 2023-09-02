@@ -1,0 +1,29 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=AripeMaVxTM&ab_channel=FarazShafin
+
+Two public links to the Concept Map (anyone on the internet can view without login):
+PDF:
+https://drive.google.com/file/d/1L1PYs9DJNc2lJIZPmo6dfK5FppMafwDj/view?usp=sharing
+Native/original format:
+https://lucid.app/lucidspark/af1e4643-cbd7-45db-a73e-71b33ae83732/edit?view_items=h.7qijReka76&invitationId=inv_16d3e9bf-e898-4c4f-88e7-f9fe926368ee
+
+Name, Author, Edition, year, and publisher of the Book:
+UNDERSTANDING MACHINE LEARNING
+Shai Shalev-Shwartz and Shai Ben-David
+2014
+Cambridge University Press
+
+Link to the book:
+https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=sr_1_1?crid=21N2OO9W3JIHC&keywords=UNDERSTANDING+MACHINE+LEARNING&qid=1693612944&sprefix=understanding+machine+learning%2Caps%2C379&sr=8-1
+
+Link to the book chapter:
+https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf?fbclid=IwAR0DIT3MXpPjwt1byxqMYlWNQnQSrvtkh16s04UNRM64KB94Yu5fNX9Qke4#page=202
+
+Group Number:
+34
+
+Group Members:
+19201025 SHARTHAK DAS
+19201026 MD MAHMUDUL HASAN
+20201222 RITISHA ISLAM
+21101171 FARAZ SIKDER SHAFIN
